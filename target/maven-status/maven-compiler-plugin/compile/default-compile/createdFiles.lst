@@ -1,0 +1,7 @@
+com/youngidea/springbootstarter/model/Quote.class
+com/youngidea/springbootstarter/Application.class
+com/youngidea/springbootstarter/repository/QuoteRepository.class
+com/youngidea/springbootstarter/util/RestSecurityProperties.class
+com/youngidea/springbootstarter/rest/HelloWordEndPoint.class
+com/youngidea/springbootstarter/SecurityConfiguration.class
+com/youngidea/springbootstarter/rest/QuoteResource.class

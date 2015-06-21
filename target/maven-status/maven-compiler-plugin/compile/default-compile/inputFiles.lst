@@ -1,0 +1,7 @@
+/home/sean/Projects/spring-boot-samples/spring-boot-starter/src/main/java/com/youngidea/springbootstarter/model/Quote.java
+/home/sean/Projects/spring-boot-samples/spring-boot-starter/src/main/java/com/youngidea/springbootstarter/util/RestSecurityProperties.java
+/home/sean/Projects/spring-boot-samples/spring-boot-starter/src/main/java/com/youngidea/springbootstarter/Application.java
+/home/sean/Projects/spring-boot-samples/spring-boot-starter/src/main/java/com/youngidea/springbootstarter/repository/QuoteRepository.java
+/home/sean/Projects/spring-boot-samples/spring-boot-starter/src/main/java/com/youngidea/springbootstarter/rest/HelloWordEndPoint.java
+/home/sean/Projects/spring-boot-samples/spring-boot-starter/src/main/java/com/youngidea/springbootstarter/rest/QuoteResource.java
+/home/sean/Projects/spring-boot-samples/spring-boot-starter/src/main/java/com/youngidea/springbootstarter/SecurityConfiguration.java
